@@ -35,6 +35,21 @@ body {
 
 }
 
+.note-title {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.note-body {
+  font-size: 14px;
+  font-weight: 400;
+  color: #939393;
+}
+
+.notecard-main-content {
+  display: flex;
+}
+
 .notecard-left {
   flex-grow: 1;
   width: auto;
