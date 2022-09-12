@@ -38,6 +38,7 @@ body {
 .note-title {
   font-size: 18px;
   font-weight: 500;
+  margin-bottom: 10px;
 }
 
 .note-body {
@@ -56,6 +57,10 @@ body {
   border-radius: 5px;
 
 object-fit: cover;
+}
+
+.notecard-text {
+  margin: 26px 20px 0px 0px;
 }
 
 .notecard-left {
