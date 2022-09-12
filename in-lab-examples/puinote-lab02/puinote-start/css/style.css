@@ -35,8 +35,10 @@ body {
 }
 
 .notecard-left {
+  width: 60%;
   background-color: blue
 }
 .notecard-right {
+  width: 40%;
   background-color: green
 }
