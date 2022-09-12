@@ -41,5 +41,6 @@ body {
 }
 .notecard-right {
   width: 30px;
-  background-color: green
+  margin-left: auto;
+  background-color: green;
 }
