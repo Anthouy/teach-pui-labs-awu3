@@ -41,6 +41,7 @@ body {
   background-color: blue;
 }
 .notecard-right {
+  flex-shrink: 0;
   width: 30px;
   margin-left: auto;
   background-color: green;
