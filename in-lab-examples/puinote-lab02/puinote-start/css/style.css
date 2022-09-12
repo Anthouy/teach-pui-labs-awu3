@@ -36,8 +36,9 @@ body {
 }
 
 .notecard-left {
-  width: calc(100% - 30px);
-  background-color: blue
+  flex-grow: 1:
+  width: auto;
+  background-color: blue;
 }
 .notecard-right {
   width: 30px;
