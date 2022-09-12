@@ -73,11 +73,9 @@ object-fit: cover;
 .notecard-left {
   flex-grow: 1;
   width: auto;
-  background-color: blue;
 }
 .notecard-right {
   flex-shrink: 0;
   width: 30px;
   margin-left: auto;
-  background-color: green;
 }
