@@ -50,6 +50,13 @@ body {
   display: flex;
 }
 
+.notecard-thumbnail {
+  width: 70px;
+  height: 70px;
+
+object-fit: cover;
+}
+
 .notecard-left {
   flex-grow: 1;
   width: auto;
